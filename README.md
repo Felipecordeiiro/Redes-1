@@ -1,5 +1,6 @@
 # WebSocket - Redes I
 Felipe Cordeiro - 571941
+
 Bruno Said - 547860
 
 O projeto realizado hoje implementa a biblioteca `websockets` incorporando o jogo da velha, no qual existe um servidor que permite que até 2 cliente(s) acessem e joguem o jogo.
